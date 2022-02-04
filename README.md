@@ -40,7 +40,7 @@ reflects on my personal management style.
 
 # My Job
 
-As VP of Engineering & IT at GPS Insight, I’m measured by:
+As VP of Technology at GPS Insight, I’m measured by:
 
 1. Enabling rapid product development and aggressive growth while providing
 clear tradeoffs to relevant stakeholders.
