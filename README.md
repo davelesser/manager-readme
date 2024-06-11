@@ -40,7 +40,7 @@ reflects on my personal management style.
 
 # My Job
 
-As SVP of Technology at GPS Insight, I’m measured by:
+As Chief Information Security Officer (CISO) at GPS Insight, I’m measured by:
 
 1. Enabling rapid product development and aggressive growth while providing
 clear tradeoffs to relevant stakeholders.
