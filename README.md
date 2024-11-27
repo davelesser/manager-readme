@@ -1,7 +1,6 @@
 # What is This?
 
-This is my [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/),
-a document intended to:
+This is my Manager README, a document intended to:
 
 1. Provide insight into how I view my job
 
@@ -103,7 +102,7 @@ can do to move things around for you.
 # How I Expect You to Approach Your Job
 
 1. I expect you to operate as a 
-[Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
+[Directly Responsible Individual](https://www.quora.com/How-well-does-Apples-Directly-Responsible-Individual-DRI-model-work-in-practice). 
 
 1. I expect you to be proactive, seeking knowledge and solutions. One of the
 most valuable skills in engineering (and in life) is being a lifelong learner
